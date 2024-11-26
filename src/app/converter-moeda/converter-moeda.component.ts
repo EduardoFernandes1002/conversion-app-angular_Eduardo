@@ -8,6 +8,7 @@ import { FormsModule } from '@angular/forms';
   templateUrl: './converter-moeda.component.html',
   styleUrl: './converter-moeda.component.css'
 })
+
 export class ConverterMoedaComponent {
 
   opcaoEscolhida: String = '';
